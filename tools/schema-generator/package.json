@@ -1,5 +1,5 @@
 {
-  "name": "fr-generator",
+  "name": "@tsintergy/fr-generator",
   "version": "3.0.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
