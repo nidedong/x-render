@@ -23,6 +23,7 @@
     ]
   },
   "dependencies": {
+    "antd": "4.24.16",
     "clone": "^2.1.2",
     "copy-text-to-clipboard": "^2.2.0",
     "form-render": "^1.0.0",
@@ -34,8 +35,7 @@
     "react-dnd": "^14.0.2",
     "react-dnd-html5-backend": "^14.0.0",
     "react-i18next": "^11.17.2",
-    "react-sortable-hoc": "^2.0.0",
-    "antd": "4.24.16"
+    "react-sortable-hoc": "^2.0.0"
   },
   "devDependencies": {
     "rollup-plugin-commonjs": "^10.1.0",
