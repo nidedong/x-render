@@ -5,7 +5,7 @@ import copyTOClipboard from 'copy-text-to-clipboard';
 import {
   mapping as defaultMapping,
   widgets as defaultWidgets,
-} from 'form-render';
+} from '@tsintergy/form-render';
 import {
   forwardRef,
   useEffect,

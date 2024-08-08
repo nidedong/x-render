@@ -1,4 +1,4 @@
-import FormRender, { useForm } from 'form-render';
+import FormRender, { useForm } from '@tsintergy/form-render';
 import React, { useEffect, useState, useRef } from 'react';
 import {
   advancedElements,
