@@ -1,6 +1,6 @@
 {
   "name": "fr-generator",
-  "version": "2.9.0-beta.1",
+  "version": "3.0.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
@@ -34,14 +34,14 @@
     "react-dnd": "^14.0.2",
     "react-dnd-html5-backend": "^14.0.0",
     "react-i18next": "^11.17.2",
-    "react-sortable-hoc": "^2.0.0"
+    "react-sortable-hoc": "^2.0.0",
+    "antd": "4.24.16"
   },
   "devDependencies": {
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-copy": "^3.4.0"
   },
   "peerDependencies": {
-    "antd": "4.x",
     "react": ">=16.14.0",
     "react-dom": ">=16.14.0"
   },
