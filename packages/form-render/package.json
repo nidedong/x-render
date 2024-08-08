@@ -82,5 +82,5 @@
     "pre-commit": "lint-staged"
   },
   "sideEffect": false,
-  "gitHead": "dad7c223ba243deb13a6a259a3d62525376a6c2c"
+  "gitHead": "197ac054a76f1766318fc8d45a2f00c6f9bf55e5"
 }
