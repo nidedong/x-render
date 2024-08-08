@@ -1,6 +1,6 @@
 {
   "name": "@tsintergy/fr-generator",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
@@ -23,10 +23,10 @@
     ]
   },
   "dependencies": {
+    "@tsintergy/form-render": "^3.0.1",
     "antd": "4.24.16",
     "clone": "^2.1.2",
     "copy-text-to-clipboard": "^2.2.0",
-    "@tsintergy/form-render": "^3.0.0",
     "i18next": "^21.8.11",
     "moment": "^2.27.0",
     "nanoid": "^3.1.22",
